@@ -19,11 +19,11 @@
 
 
 * Steve Coast
-   * By
+   * By Tomoka Hayasaki
 ![ICC2019TOKYO_SteveCoast1](https://github.com/furuhashilab/grareco/blob/master/ICC2019TOKYO/ICC2019TOKYO_SteveCoast1.jpg?raw=true)
    * By Kouki Takesue
 ![ICC2019TOKYO_SteveCoast2](https://github.com/furuhashilab/grareco/blob/master/ICC2019TOKYO/ICC2019TOKYO_SteveCoast2.jpg?raw=true)
-   * By 
+   * By Haruka Yasuda
 ![ICC2019TOKYO_SteveCoast3](https://github.com/furuhashilab/grareco/blob/master/ICC2019TOKYO/ICC2019TOKYO_SteveCoast3.jpg?raw=true)
 
 * Ayako Kagawa by Taichi Furuhashi
