@@ -5,24 +5,30 @@
 
 （古橋大地）
 
+
+# ICC2019TOKYOグラレコ担当者
+
 * グラレコ風景
 ![GraphicRecording](https://github.com/furuhashilab/grareco/blob/master/ICC2019TOKYO/ICC2019TOKYO_graphicrecording.jpg?raw=true)
 ![GraphicRecording](https://github.com/furuhashilab/grareco/blob/master/ICC2019TOKYO/ICC2019TOKYO_graphicrecordings.jpg?raw=true)
 ![GraphicRecording](https://github.com/furuhashilab/grareco/blob/master/ICC2019TOKYO/ICC2019TOKYO_graphicrecordings2.jpg?raw=true)
 
-* Venka Raghavan
+* Venka Raghavan by Yuka Kato
 ![VenkaRaghavan](https://github.com/furuhashilab/grareco/blob/master/ICC2019TOKYO/ICC2019TOKYO_VenkaRaghavan.jpg?raw=true)
 ![VenkaRaghavan](https://github.com/furuhashilab/grareco/blob/master/ICC2019TOKYO/ICC2019TOKYO_VenkaRaghavan3.jpg?raw=true)
 
 
 * Steve Coast
+   * By
 ![ICC2019TOKYO_SteveCoast1](https://github.com/furuhashilab/grareco/blob/master/ICC2019TOKYO/ICC2019TOKYO_SteveCoast1.jpg?raw=true)
+   * By Kouki Takesue
 ![ICC2019TOKYO_SteveCoast2](https://github.com/furuhashilab/grareco/blob/master/ICC2019TOKYO/ICC2019TOKYO_SteveCoast2.jpg?raw=true)
+   * By 
 ![ICC2019TOKYO_SteveCoast3](https://github.com/furuhashilab/grareco/blob/master/ICC2019TOKYO/ICC2019TOKYO_SteveCoast3.jpg?raw=true)
 
-* Ayako Kagawa
+* Ayako Kagawa by Taichi Furuhashi
 ![Ayako Kagawa](https://github.com/furuhashilab/grareco/blob/master/ICC2019TOKYO/ICC2019TOKYO_AyakoKagawa.jpg?raw=true)
 
-* Eric Gandersen
+* Eric Gandersen by Taichi Furuhashi
 ![EricGandersen](https://github.com/furuhashilab/grareco/blob/master/ICC2019TOKYO/ICC2019TOKYO_EricGandersenSCAN-1275.jpg?raw=true)
 
