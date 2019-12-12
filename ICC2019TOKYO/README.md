@@ -12,3 +12,10 @@
 ![ICC2019TOKYO_SteveCoast1](https://github.com/furuhashilab/grareco/blob/master/ICC2019TOKYO/ICC2019TOKYO_SteveCoast1.jpg?raw=true)
 ![ICC2019TOKYO_SteveCoast2](https://github.com/furuhashilab/grareco/blob/master/ICC2019TOKYO/ICC2019TOKYO_SteveCoast2.jpg?raw=true)
 ![ICC2019TOKYO_SteveCoast3](https://github.com/furuhashilab/grareco/blob/master/ICC2019TOKYO/ICC2019TOKYO_SteveCoast3.jpg?raw=true)
+
+* Ayako Kagawa
+![Ayako Kagawa](https://github.com/furuhashilab/grareco/blob/master/ICC2019TOKYO/ICC2019TOKYO_AyakoKagawa.jpg?raw=true)
+
+* Eric Gandersen
+![EricGandersen](https://github.com/furuhashilab/grareco/blob/master/ICC2019TOKYO/ICC2019TOKYO_EricGandersenSCAN-1275.jpg?raw=true)
+
