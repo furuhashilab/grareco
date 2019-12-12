@@ -7,7 +7,14 @@
 
 
 # ICC2019TOKYOグラレコ担当者
+* Yuka Kato(7/16 Venka Raghavan)
+* Tomoka Hayasaki(7/17 Steve Coast)
+* Kouki Takesue(7/17 Steve Coast)
+* Haruka Yasuda(7/17 Steve Coast)
+* Taichi Furuhashi(7/18 Ayako Kagawa)
+* Taichi Furuhashi(7/19 Eric Gandersem)
 
+# 写真
 * グラレコ風景
 ![GraphicRecording](https://github.com/furuhashilab/grareco/blob/master/ICC2019TOKYO/ICC2019TOKYO_graphicrecording.jpg?raw=true)
 ![GraphicRecording](https://github.com/furuhashilab/grareco/blob/master/ICC2019TOKYO/ICC2019TOKYO_graphicrecordings.jpg?raw=true)
