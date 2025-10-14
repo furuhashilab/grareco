@@ -1,6 +1,9 @@
 # grareco
 グラレコアーカイブズ
 
+## 空間情報特殊講義（関治之先生）用 公開リポジトリ（アーカイブ）
+https://github.com/furuhashilab/geomedia4gsc_grareco
+
 ## 神奈川県大和市寄付講座_2018-04-19_大木市長
 [神奈川県大和市寄付講座_2018-04-19_大木市長.pdf](https://github.com/furuhashilab/grareco/files/1924638/_2018-04-19_.pdf)
 
