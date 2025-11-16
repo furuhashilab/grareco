@@ -2,7 +2,7 @@
 グラレコアーカイブズ
 
 ## 特殊講義SI 2025
-* [戸田さん](https://github.com/furuhashilab/grareco/tree/master/GSC%E7%89%B9%E6%AE%8A%E8%AC%9B%E7%BE%A9SI2025_KenichiroTobe)
+* [戸田さん](https://github.com/furuhashilab/grareco/tree/master/GSC%E7%89%B9%E6%AE%8A%E8%AC%9B%E7%BE%A9SI2025_KenichiroToda)
 * [あさひなさん](https://github.com/furuhashilab/grareco/tree/master/GSC%E7%89%B9%E6%AE%8A%E8%AC%9B%E7%BE%A9SI2025_Asahina)
 * [勝部さん](https://github.com/furuhashilab/grareco/tree/master/GSC%E7%89%B9%E6%AE%8A%E8%AC%9B%E7%BE%A9SI2025_KeiichiKatsube)
 * [田中さん](https://github.com/furuhashilab/grareco/tree/master/GSC%E7%89%B9%E6%AE%8A%E8%AC%9B%E7%BE%A9SI2025_SatoshiTanaka)
